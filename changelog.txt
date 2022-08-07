@@ -5,3 +5,7 @@ v 1.0:
 v 1.1:
 
 - made massive
+
+v 1.2:
+
+- made pyramid custom size giving user more control
